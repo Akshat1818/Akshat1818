@@ -1,4 +1,4 @@
-[!MasterHead(https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+
 <h1 align="center">Hi 👋, I'm Akshat Sagpariya</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1200/0*M4bxiCIjcTK-2Xr6.jpeg" alt="">
