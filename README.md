@@ -1,4 +1,4 @@
-[!MasterHead(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw3GAgJLqdVhtJZh8oPwNIQ2&ust=1690539555048000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD5yuLUroADFQAAAAAdAAAAABAJ)]
+[!MasterHead(https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Akshat Sagpariya</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1200/0*M4bxiCIjcTK-2Xr6.jpeg" alt="">
