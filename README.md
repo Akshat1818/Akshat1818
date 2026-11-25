@@ -1,7 +1,7 @@
 <!-- GitHub profile README for github.com/Akshat1818 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,50:1E3A8A,100:6D28D9&text=Akshat%20Sagpariya&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20.NET%20%26%20Angular%20%C2%B7%20Founder%20of%20Ezvanta&descSize=18&descAlignY=58" alt="Akshat Sagpariya" width="100%" />
+<img src="assets/banner.svg" alt="Akshat Sagpariya - Software Engineer, Founder of Ezvanta" width="100%" />
 
 <a href="https://ezvanta.in">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=640&lines=Building+Ezvanta+%E2%80%94+live+at+ezvanta.in;C%23+%C2%B7+ASP.NET+Core+%C2%B7+Angular+%C2%B7+SQL;Fintech+%2F+AML+transaction+monitoring;Secure%2C+scalable%2C+production+systems" alt="What I do" />
@@ -31,21 +31,13 @@
 
 ## 🚀 Flagship project — [Ezvanta](https://ezvanta.in)
 
-<table>
-<tr>
-<td width="120" align="center" valign="top">
-<a href="https://ezvanta.in"><img src="https://raw.githubusercontent.com/Akshat1818/plenzo/main/docs/brand/ezvanta-logo-dark.png" width="96" alt="Ezvanta logo"/></a>
-</td>
-<td>
-
-**Food, travel, stays and local shopping — one secure account.**
+**Food, travel, stays and local shopping — one secure account.**  
 A production platform built solo as a **.NET 10 modular monolith** with an **Angular 22** frontend, live at **[ezvanta.in](https://ezvanta.in)**.
 
-**🌐 [Live site](https://ezvanta.in) · 📦 [Source code](https://github.com/Akshat1818/plenzo)**
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://ezvanta.in"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20site-ezvanta.in-6D28D9?style=for-the-badge" alt="Live site" /></a>
+  <a href="https://github.com/Akshat1818/plenzo"><img src="https://img.shields.io/badge/Source-Akshat1818%2Fplenzo-181717?style=for-the-badge&logo=github" alt="Source code" /></a>
+</p>
 
 | What I built | How |
 |---|---|
