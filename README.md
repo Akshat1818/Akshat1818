@@ -1,23 +1,97 @@
+<!-- GitHub profile README for github.com/Akshat1818 -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Akshat Sagpariya</h1>
-<h3 align="center">A passionate full stack web developer.</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*M4bxiCIjcTK-2Xr6.jpeg" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat1818&label=Profile%20views&color=0e75b6&style=flat" alt="akshat1818" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,50:1E3A8A,100:6D28D9&text=Akshat%20Sagpariya&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20.NET%20%26%20Angular%20%C2%B7%20Founder%20of%20Ezvanta&descSize=18&descAlignY=58" alt="Akshat Sagpariya" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/akshatsagpariya" target="blank"><img src="https://img.shields.io/twitter/follow/akshatsagpariya?logo=twitter&style=for-the-badge" alt="akshatsagpariya" /></a> </p>
+<a href="https://ezvanta.in">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=640&lines=Building+Ezvanta+%E2%80%94+live+at+ezvanta.in;C%23+%C2%B7+ASP.NET+Core+%C2%B7+Angular+%C2%B7+SQL;Fintech+%2F+AML+transaction+monitoring;Secure%2C+scalable%2C+production+systems" alt="What I do" />
+</a>
 
-- 📫 How to reach me **akshatpatelh@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akshatsagpariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatsagpariya" height="30" width="40" /></a>
+[![Ezvanta](https://img.shields.io/badge/Founder-ezvanta.in-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ezvanta.in)
+[![Email](https://img.shields.io/badge/Email-akshatpatelh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatpatelh@gmail.com)
+<!-- Add your LinkedIn: replace YOUR-ID and remove these comment marks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-ID)
+-->
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+- **Software Engineer** with **2.5+ years** building enterprise **.NET + Angular** applications.
+- Work on **fintech / AML transaction-monitoring systems** — the software banks use to detect suspicious money movement, where correctness, auditability and performance are non-negotiable.
+- **Founder of [Ezvanta](https://ezvanta.in)** — a multi-vendor platform I designed, built and run in production on my own.
+- I care about clean architecture, security by default, and shipping things real people use.
+- 📍 Rajkot, India · open to remote and relocation.
+
+---
+
+## 🚀 Flagship project — [Ezvanta](https://ezvanta.in)
+
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<a href="https://ezvanta.in"><img src="https://raw.githubusercontent.com/Akshat1818/plenzo/main/docs/brand/ezvanta-logo-dark.png" width="96" alt="Ezvanta logo"/></a>
+</td>
+<td>
+
+**Food, travel, stays and local shopping — one secure account.**
+A production platform built solo as a **.NET 10 modular monolith** with an **Angular 22** frontend, live at **[ezvanta.in](https://ezvanta.in)**.
+
+**🌐 [Live site](https://ezvanta.in) · 📦 [Source code](https://github.com/Akshat1818/plenzo)**
+
+</td>
+</tr>
+</table>
+
+| What I built | How |
+|---|---|
+| 🏗️ **Modular monolith** | Identity, Stays, Messaging and Engagement modules — each with its own Postgres schema; one Docker container today, gateway-ready (YARP) for tomorrow |
+| 🔐 **Security first** | JWT in HttpOnly cookies, rotating refresh tokens with reuse detection, 2FA, CSRF, rate limits, CSP; 13 security rules with an automated audit script |
+| 🏠 **Hostel / PG management** | Resident onboarding, encrypted ID documents, online + paper agreements, rent ledger, deposit settlement with rule-based fines |
+| 💬 **WhatsApp assistant** | Official WhatsApp Cloud API bot — search, view and book visits in chat; HMAC-verified, idempotent webhooks; background queues |
+| 🤖 **AI search** | "girls pg under 8k with food" → structured filters, with a rule-based fallback |
+| 📱 **QR pass** | Rotating, time-limited QR built on a **QR encoder written from scratch** |
+| 🌆 **3D home page** | Interactive night city in **pure CSS 3D** — no WebGL, smooth on low-end phones |
+| ⚙️ **DevOps** | GitHub Actions CI (secret scan, tests, vulnerable-package gate), Docker, Render, Neon Postgres |
+
+---
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css&perline=7" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,azure,docker,git,github,githubactions,vscode&perline=7" alt="Data and tools" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+| Area | Skills |
+|---|---|
+| **Backend** | C#, ASP.NET Core, ASP.NET (.NET Framework), Web API, Minimal APIs, Entity Framework Core, NHibernate, ASP.NET Identity |
+| **Frontend** | Angular, AngularJS, TypeScript, RxJS, Signals, HTML5, CSS3 |
+| **Databases** | SQL Server, PostgreSQL |
+| **DevOps & tools** | Azure DevOps, GitHub Actions, Git, Docker, Render |
+| **Architecture** | Modular monolith, clean architecture, REST, background queues, webhooks, OAuth 2.0 / JWT |
+| **Domain** | Fintech, AML transaction monitoring |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat1818&show_icons=true&locale=en&layout=compact" alt="akshat1818" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat1818&show_icons=true&locale=en" alt="akshat1818" /></p>
+## 📌 Currently
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat1818&" alt="akshat1818" /></p>
+- 🔨 Adding food, bus, hotel and shopping modules to **Ezvanta**
+- 📚 Sharpening **system design** and **data structures & algorithms**
+- 🤝 Open to **Software Engineer (.NET / full-stack)** roles — remote or relocation
+
+---
+
+<div align="center">
+
+**Let's build something people actually use.**
+[ezvanta.in](https://ezvanta.in) · [akshatpatelh@gmail.com](mailto:akshatpatelh@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6D28D9,50:1E3A8A,100:0B1020" width="100%" alt="" />
+
+</div>
