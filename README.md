@@ -1,58 +1,45 @@
-<!-- GitHub profile README for github.com/Akshat1818 -->
 <div align="center">
 
-<img src="assets/banner.svg" alt="Akshat Sagpariya - Software Engineer, Founder of Ezvanta" width="100%" />
+# Akshat Sagpariya
 
-<a href="https://ezvanta.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=7C9CFF&center=true&vCenter=true&width=640&lines=Building+Ezvanta+%E2%80%94+live+at+ezvanta.in;C%23+%C2%B7+ASP.NET+Core+%C2%B7+Angular+%C2%B7+SQL;Fintech+%2F+AML+transaction+monitoring;Secure%2C+scalable%2C+production+systems" alt="What I do" />
-</a>
+**Software Engineer · .NET & Angular · Fintech / AML**
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=I+build+software+that+catches+financial+crime;C%23+%C2%B7+ASP.NET+Core+%C2%B7+Angular+%C2%B7+SQL+Server;Side+project%3A+ezvanta.in" alt="What I do" />
 
-[![Ezvanta](https://img.shields.io/badge/Founder-ezvanta.in-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ezvanta.in)
-[![Email](https://img.shields.io/badge/Email-akshatpatelh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatpatelh@gmail.com)
-<!-- Add your LinkedIn: replace YOUR-ID and remove these comment marks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-ID)
+[![Email](https://img.shields.io/badge/Email-akshatpatelh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akshatpatelh@gmail.com)
+[![Website](https://img.shields.io/badge/Website-ezvanta.in-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://ezvanta.in)
+<!-- LinkedIn: replace YOUR-ID and remove these comment marks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-ID)
 -->
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+### 👋 About me
 
-- **Software Engineer** with **2.5+ years** building enterprise **.NET + Angular** applications.
-- Work on **fintech / AML transaction-monitoring systems** — the software banks use to detect suspicious money movement, where correctness, auditability and performance are non-negotiable.
-- **Founder of [Ezvanta](https://ezvanta.in)** — a multi-vendor platform I designed, built and run in production on my own.
-- I care about clean architecture, security by default, and shipping things real people use.
-- 📍 Rajkot, India · open to remote and relocation.
+.NET full-stack engineer, 2.5+ years in. Most of my work is banking software, where a slow query or a missed alert is a real problem, not just a bug.
 
----
+### 🏦 What I work on: AML transaction monitoring
 
-## 🚀 Flagship project — [Ezvanta](https://ezvanta.in)
+Banks have to catch money laundering hidden inside everyday payments. The product I work on does exactly that.
 
-**Food, travel, stays and local shopping — one secure account.**  
-A production platform built solo as a **.NET 10 modular monolith** with an **Angular 22** frontend, live at **[ezvanta.in](https://ezvanta.in)**.
+- Screens **100M+ transactions** against detection rules and flags the suspicious ones for investigators
+- Worked on performance, so large volumes get processed on time without slowing the system down
+- Build features end to end: ASP.NET APIs, Angular screens, SQL Server and NHibernate
+- Ship through Azure DevOps
 
-<p>
-  <a href="https://ezvanta.in"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20site-ezvanta.in-6D28D9?style=for-the-badge" alt="Live site" /></a>
-  <a href="https://github.com/Akshat1818/plenzo"><img src="https://img.shields.io/badge/Source-Akshat1818%2Fplenzo-181717?style=for-the-badge&logo=github" alt="Source code" /></a>
-</p>
+### 🚀 Side project: [Ezvanta](https://ezvanta.in)
 
-| What I built | How |
-|---|---|
-| 🏗️ **Modular monolith** | Identity, Stays, Messaging and Engagement modules — each with its own Postgres schema; one Docker container today, gateway-ready (YARP) for tomorrow |
-| 🔐 **Security first** | JWT in HttpOnly cookies, rotating refresh tokens with reuse detection, 2FA, CSRF, rate limits, CSP; 13 security rules with an automated audit script |
-| 🏠 **Hostel / PG management** | Resident onboarding, encrypted ID documents, online + paper agreements, rent ledger, deposit settlement with rule-based fines |
-| 💬 **WhatsApp assistant** | Official WhatsApp Cloud API bot — search, view and book visits in chat; HMAC-verified, idempotent webhooks; background queues |
-| 🤖 **AI search** | "girls pg under 8k with food" → structured filters, with a rule-based fallback |
-| 📱 **QR pass** | Rotating, time-limited QR built on a **QR encoder written from scratch** |
-| 🌆 **3D home page** | Interactive night city in **pure CSS 3D** — no WebGL, smooth on low-end phones |
-| ⚙️ **DevOps** | GitHub Actions CI (secret scan, tests, vulnerable-package gate), Docker, Render, Neon Postgres |
+An app for stays, food, travel and local shopping that I'm building on my own. It's live at [ezvanta.in](https://ezvanta.in).
+
+- PG / hostel listings plus a full management panel for owners (residents, agreements, rent, deposits)
+- WhatsApp booking bot on the official Cloud API
+- .NET 10 modular monolith, Angular 22, PostgreSQL, Docker
 
 ---
 
-## 🛠️ Tech stack
+### 🛠️ Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css&perline=7" alt="Languages and frameworks" />
@@ -62,28 +49,22 @@ A production platform built solo as a **.NET 10 modular monolith** with an **Ang
 
 | Area | Skills |
 |---|---|
-| **Backend** | C#, ASP.NET Core, ASP.NET (.NET Framework), Web API, Minimal APIs, Entity Framework Core, NHibernate, ASP.NET Identity |
-| **Frontend** | Angular, AngularJS, TypeScript, RxJS, Signals, HTML5, CSS3 |
+| **Backend** | C#, ASP.NET Core, ASP.NET (.NET Framework), Web API, Entity Framework Core, NHibernate |
+| **Frontend** | Angular, AngularJS, TypeScript, RxJS, HTML5, CSS3 |
 | **Databases** | SQL Server, PostgreSQL |
-| **DevOps & tools** | Azure DevOps, GitHub Actions, Git, Docker, Render |
-| **Architecture** | Modular monolith, clean architecture, REST, background queues, webhooks, OAuth 2.0 / JWT |
+| **DevOps & tools** | Azure DevOps, GitHub Actions, Git, Docker |
 | **Domain** | Fintech, AML transaction monitoring |
 
 ---
 
-## 📌 Currently
+### 📌 Right now
 
-- 🔨 Adding food, bus, hotel and shopping modules to **Ezvanta**
-- 📚 Sharpening **system design** and **data structures & algorithms**
-- 🤝 Open to **Software Engineer (.NET / full-stack)** roles — remote or relocation
-
----
+- Looking for my next role as a .NET / full-stack engineer (remote or relocation)
+- Practising system design and DSA
+- Adding new modules to Ezvanta
 
 <div align="center">
 
-**Let's build something people actually use.**
-[ezvanta.in](https://ezvanta.in) · [akshatpatelh@gmail.com](mailto:akshatpatelh@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6D28D9,50:1E3A8A,100:0B1020" width="100%" alt="" />
+<sub>Reach me at <a href="mailto:akshatpatelh@gmail.com">akshatpatelh@gmail.com</a></sub>
 
 </div>
